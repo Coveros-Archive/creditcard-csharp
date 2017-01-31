@@ -14,7 +14,7 @@
 /// When you are brought in for a face-to-face interview, we will discuss your
 /// implementation and possibly make modifications.
 /// 
-/// These unit tests use the Microsoft Unit Testing (MSUnit) framework.
+/// These unit tests use the Microsoft Unit Testing (MSTest) framework.
 /// Reference the following wiki for http://en.wikipedia.org/wiki/Bank_card_number
 /// </summary>
 namespace Coveros.CreditCards {
